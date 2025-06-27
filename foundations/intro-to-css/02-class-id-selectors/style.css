@@ -1,0 +1,20 @@
+.oddies, 
+.classy{
+    background-color: #e99595;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.classy{
+    font-size: 24px;
+}
+
+#second{
+    color:#7faff1;
+    font-size: 36px;
+}
+
+#forth{
+    background-color: #91d876;
+    font-size: 24px;
+    font-weight: bold;
+}
